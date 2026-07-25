@@ -4,6 +4,7 @@
 ---
 
 <br/>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Computational%20Biology-1B998B?style=flat" />
   <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=flat" />
@@ -34,6 +35,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjenniferestigene&label=Repos&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="Repos" />
+  <img src="https://img.shields.io/badge/Repos-12-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
 </p>
 <p align="center"><b>Check out my repos ⬇️</b></p>
