@@ -1,5 +1,5 @@
 <h1 align="center">👋🏽 Hi there, I'm Jennifer</h1>
-<p align="center">I'm an engineer and scientist working at the intersection of machine learning and scientific design. I love building things around what I'm passionate about: AI x Bio, and the space where they meet 🧬👩🏽‍💻. I want the things I build to be useful, responsible, and ultimately directed toward the benefit of humanity.</p>
+<p align="center">I'm an engineer and scientist at the intersection of machine learning and scientific design. I love building things around what I'm passionate about: AI x Bio, and the space where they meet 🧬👩🏽‍💻. I want the things I build to be useful, responsible, and ultimately directed toward the benefit of humanity.</p>
 
 ---
 
