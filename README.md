@@ -14,6 +14,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repos-16-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+  <img src="https://img.shields.io/badge/Repos-12-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
 </p>
 <p align="center"><b>Check out my repos ⬇️</b></p>
